@@ -1,6 +1,7 @@
 # SLD-ML Benchmark v1: Dataset Descriptor
 
-Version 1.0 (2026-08-13) · License: CC-BY-4.0 · DOI: TBD
+Version 1.0 (2026-08-13) · License: CC-BY-4.0 · Distribution: GitHub
+Releases v1.0.0
 
 ## 1. Motivation and value
 
@@ -107,7 +108,8 @@ shortfalls of learned surrogates are documented in `results/`.
 
 ## 7. Availability
 
-Zenodo DOI: TBD. GitHub: TBD. License: CC-BY-4.0.
+GitHub: https://github.com/tkkpku/sld-ml-benchmark (Release v1.0.0, asset
+`sld-ml-benchmark-v1.zip`). License: CC-BY-4.0.
 
 ## 8. References
 
