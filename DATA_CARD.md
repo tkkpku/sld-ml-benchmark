@@ -5,7 +5,8 @@
 - Name: SLD-ML Benchmark v1
 - Version: 1.0 (2026-08-13)
 - License: CC-BY-4.0
-- DOI: `10.5281/zenodo.`(TBD)
+- Distribution: GitHub Releases v1.0.0
+  (https://github.com/tkkpku/sld-ml-benchmark)
 - Language/domain: mechanical engineering, milling chatter, stability lobe
   diagrams (SLD), machine-learning surrogates
 
@@ -100,4 +101,4 @@ validation; extrapolation beyond the parameter box below.
 
 This is a v1 release. Errata and v2 extensions (larger parameter space,
 experimental data, process damping, uncertainty-aware evaluation) will be
-released under the same repository/Zenodo record with new version DOIs.
+released under the same repository as new GitHub Releases.
