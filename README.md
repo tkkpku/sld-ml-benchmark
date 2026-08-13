@@ -2,7 +2,9 @@
 
 **Milling stability lobe diagrams for machine-learning surrogates: coarse-to-fine pairs, exact spectral-radius labels, and a standard evaluation protocol.**
 
-Version 1.0 · License: CC-BY-4.0 · DOI: `10.5281/zenodo.`(TBD after upload)
+Version 1.0 · License: CC-BY-4.0 · Distribution: GitHub Releases v1.0.0
+(asset `sld-ml-benchmark-v1.zip`; complete data, checksums and scripts in
+one file)
 
 ## What this is
 
@@ -52,7 +54,9 @@ sld-ml-benchmark-v1/
   meta.json            90-case metadata, splits, grids, license
   data/
     rho/               290 spectral-radius fields (fine m80 x90, fine m160
-                       x20 on val/test, c32 x90, c16 x90)
+                       x20 on val/test, c32 x90, c16 x90) - shipped inside
+                       the v1.0.0 release asset sld-ml-benchmark-v1.zip
+                       (download the asset to obtain the full data)
     samples/           3 example fields for quick format inspection
   results/             precomputed evaluation JSONs + reference model weights
   code/                generation, evaluation, audit and scoring scripts
@@ -107,10 +111,10 @@ the data card; no experimental cutting data is included in v1.
 
 ## Citation
 
-Once the Zenodo DOI is assigned, cite the dataset as:
+Cite the dataset as:
 
 ```text
 SLD-ML Benchmark v1: A Public Coarse-to-Fine Milling Stability Lobe
 Diagram Dataset with Audited Labels and Baselines (2026).
-DOI: 10.5281/zenodo.(TBD)
+GitHub: https://github.com/tkkpku/sld-ml-benchmark (Release v1.0.0)
 ```
